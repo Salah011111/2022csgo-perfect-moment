@@ -1,0 +1,13 @@
+.home{
+  position: absolute;
+  overflow: auto;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(0deg,#f4e9e0,#ffd0a6,#6fc9a0);
+  color:#9ad;
+  font-size: 42px;
+  font-weight: 700;
+}
